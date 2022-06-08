@@ -8,7 +8,7 @@ I have a passion for creating and learning new things!
 Apart from coding, I also maintain a blog - you can find my articles on my website at [baro.rezonia.com](https://baro.rezonia.com/)
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=2f2625)
+![https://code.visualstudio.com/](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=2f2625)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&labelColor=2f2625)
 
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&labelColor=2f2625)
@@ -17,7 +17,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&labelColor=2f2625)
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Tools-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&labelColor=2f2625)
 ![](https://img.shields.io/badge/Tools-Microsoft_Terminal-informational?style=flat&logo=microsoftterminal&logoColor=white&labelColor=2f2625)
 
 ![](https://img.shields.io/badge/Stack-Laravel-informational?style=flat&logo=laravel&logoColor=white&labelColor=2f2625)
