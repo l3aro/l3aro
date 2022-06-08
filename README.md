@@ -14,22 +14,22 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## 🔧 Technologies 
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Tool-HyperJS-informational?style=flat&logo=hyper&logoColor=white&labelColor=2f2625)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=0078D6&labelColor=2f2625)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&labelColor=2f2625)
+![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=57A143&labelColor=2f2625)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=4EAA25&labelColor=2f2625)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColorF05032&labelColor=2f2625)
+![](https://img.shields.io/badge/Tool-HyperJS-informational?style=flat&logo=hyper&logoColor=F05032&labelColor=2f2625)
 
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Code-AlpineJS-informational?style=flat&logo=alpine.js&logoColor=white&labelColor=2f2625)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=777BB4&labelColor=2f2625)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=3178C6&labelColor=2f2625)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=2f2625)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=4FC08D&labelColor=2f2625)
+![](https://img.shields.io/badge/Code-AlpineJS-informational?style=flat&logo=alpine.js&logoColor=8BC0D0&labelColor=2f2625)
 
-![](https://img.shields.io/badge/Stack-Laravel-informational?style=flat&logo=laravel&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Stack-Livewire-informational?style=flat&logo=livewire&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Stack-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&labelColor=2f2625)
+![](https://img.shields.io/badge/Stack-Laravel-informational?style=flat&logo=laravel&logoColor=FF2D20&labelColor=2f2625)
+![](https://img.shields.io/badge/Stack-Livewire-informational?style=flat&logo=livewire&logoColor=4E56A6&labelColor=2f2625)
+![](https://img.shields.io/badge/Stack-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=06B6D4&labelColor=2f2625)
 
 <!--
 **l3aro/l3aro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
