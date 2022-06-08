@@ -2,12 +2,16 @@
 
 My name is Baro and I'm a web developer.
 I have a passion for creating and learning new things!
+You can find me at
 
-https://img.shields.io/github/stars/l3aro?style=social
+[![](https://img.shields.io/github/stars/l3aro?style=social)](https://github.com/l3aro)
+[![](https://img.shields.io/twitter/follow/dgbao1340?style=social()](https://twitter.com/dgbao1340)
 
 ## ✍ Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [baro.rezonia.com](https://baro.rezonia.com/)
+
+## 🔧 Technologies 
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&labelColor=2f2625)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=2f2625)
