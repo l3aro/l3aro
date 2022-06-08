@@ -5,7 +5,8 @@ I have a passion for creating and learning new things!
 You can find me at
 
 [![](https://img.shields.io/github/stars/l3aro?style=social)](https://github.com/l3aro)
-[![](https://img.shields.io/twitter/follow/dgbao1340?style=social()](https://twitter.com/dgbao1340)
+
+[![](https://img.shields.io/twitter/follow/dgbao1340?style=social)](https://twitter.com/dgbao1340)
 
 ## ✍ Blog & Writing
 
