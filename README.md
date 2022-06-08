@@ -9,7 +9,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&labelColor=2f2625)
 ![https://code.visualstudio.com/](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&labelColor=2f2625)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&labelColor=2f2625)
 
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&labelColor=2f2625)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&labelColor=2f2625)
