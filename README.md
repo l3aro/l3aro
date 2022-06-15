@@ -20,7 +20,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=57A143&labelColor=2f2625)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=4EAA25&labelColor=2f2625)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColorF05032&labelColor=2f2625)
-![](https://img.shields.io/badge/Tool-HyperJS-informational?style=flat&logo=hyper&logoColor=F05032&labelColor=2f2625)
+![](https://img.shields.io/badge/Terminal-HyperJS-informational?style=flat&logo=hyper&logoColor=F05032&labelColor=2f2625)
 
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=777BB4&labelColor=2f2625)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=3178C6&labelColor=2f2625)
