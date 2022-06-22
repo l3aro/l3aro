@@ -4,9 +4,7 @@ My name is Baro and I'm a web developer.
 I have a passion for creating and learning new things!
 You can find me at
 
-[![](https://img.shields.io/github/stars/l3aro?style=social)](https://github.com/l3aro)
-
-[![](https://img.shields.io/twitter/follow/dgbao1340?style=social)](https://twitter.com/dgbao1340)
+[![](https://img.shields.io/badge/Twitter-information?logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/dgbao1340)
 
 ## ✍ Blog & Writing
 
@@ -31,6 +29,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Stack-Laravel-informational?style=flat&logo=laravel&logoColor=FF2D20&labelColor=2f2625)
 ![](https://img.shields.io/badge/Stack-Livewire-informational?style=flat&logo=livewire&logoColor=4E56A6&labelColor=2f2625)
 ![](https://img.shields.io/badge/Stack-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=06B6D4&labelColor=2f2625)
+
+## 📊 Stats
+
+![](https://github-readme-stats.vercel.app/api?username=l3aro&theme=nord&hide_border=false&include_all_commits=true&count_private=false)
 
 <!--
 **l3aro/l3aro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
