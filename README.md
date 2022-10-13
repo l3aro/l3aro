@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Baro and I'm a web developer.
+My name is Baro and I'm a Software Developer.
 I have a passion for creating and learning new things!
 You can find me at
 
