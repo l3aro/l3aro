@@ -14,6 +14,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=0078D6&labelColor=2f2625)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=E95420&labelColor=2f2625)
+![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=#3DDC84&labelColor=2f2625)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&labelColor=2f2625)
 ![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=57A143&labelColor=2f2625)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=4EAA25&labelColor=2f2625)
@@ -29,6 +30,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Stack-Laravel-informational?style=flat&logo=laravel&logoColor=FF2D20&labelColor=2f2625)
 ![](https://img.shields.io/badge/Stack-Livewire-informational?style=flat&logo=livewire&logoColor=4E56A6&labelColor=2f2625)
 ![](https://img.shields.io/badge/Stack-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=06B6D4&labelColor=2f2625)
+![](https://img.shields.io/badge/Stack-Ionic-informational?style=flat&logo=ionic&logoColor=3880FF&labelColor=2f2625)
 
 ## 📊 Stats
 
